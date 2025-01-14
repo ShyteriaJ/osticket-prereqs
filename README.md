@@ -47,14 +47,13 @@ Click "Yes", you will now be remotely logged into the VM you just created.
   ![image](https://github.com/user-attachments/assets/9ebad70b-3ac7-434a-9969-c6b3840e04f9)
 ![image](https://github.com/user-attachments/assets/9560521c-a3fd-4529-b786-070412e1ed1a)
 ![image](https://github.com/user-attachments/assets/865b51e4-67fe-4ed3-9078-da32c1df2970)
+-IIS Install and Enable
 ![image](https://github.com/user-attachments/assets/b12f17a4-1a49-4ad7-ab43-0cc3fb65dcaf)
 ![image](https://github.com/user-attachments/assets/1831dcd2-ac1d-4f3b-bb01-c7abdf4a326f)
 ![image](https://github.com/user-attachments/assets/476b1ed7-034b-49d8-8d08-9cbfb56956cf)
 ![image](https://github.com/user-attachments/assets/e6a71c62-318e-4115-9b6c-a4096b52a3d9)
 ![image](https://github.com/user-attachments/assets/422d71d3-cd61-4122-8065-afe364ff0315)
 
-
-- IIS & Management Console
 - Rewrite Module
   ![image](https://github.com/user-attachments/assets/cfbfaa14-328d-46ad-afd4-36c8e527813b)
 
