@@ -51,11 +51,15 @@ Click "Yes", you will now be remotely logged into the VM you just created.
 ![image](https://github.com/user-attachments/assets/1831dcd2-ac1d-4f3b-bb01-c7abdf4a326f)
 ![image](https://github.com/user-attachments/assets/476b1ed7-034b-49d8-8d08-9cbfb56956cf)
 ![image](https://github.com/user-attachments/assets/e6a71c62-318e-4115-9b6c-a4096b52a3d9)
+![image](https://github.com/user-attachments/assets/422d71d3-cd61-4122-8065-afe364ff0315)
 
 
 - IIS & Management Console
 - Rewrite Module
-- Create PHP Folder on C:\ drive
+  ![image](https://github.com/user-attachments/assets/cfbfaa14-328d-46ad-afd4-36c8e527813b)
+
+- Create "PHP" Folder on C:\ drive
+- 
 - PHP Unzip in PHP Folder, PHP Manager
 - VC_redist
 - MySQL
