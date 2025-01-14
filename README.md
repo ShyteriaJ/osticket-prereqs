@@ -55,7 +55,8 @@ Click "Yes", you will now be remotely logged into the VM you just created.
 
 -Go to "Start"> Control Panel> Programs> Turn Windows Features ON/OFF". A box will pop up, scroll down and select "Internet Information Services" and expand the (+) sign next to it. Click the box next to Web Management Tools, and "World Wide Web Services". Expand the (+) next to World Wide Web Services, expand (+) next to "Application Development Features", select box next to CGI. Make sure boxes next to Common HTTP Features, Health and Diagnostics, and Performance Features, and Security are all checked as shown in the image below before clicking "OK".
 ![image](https://github.com/user-attachments/assets/b12f17a4-1a49-4ad7-ab43-0cc3fb65dcaf)
-![image](https://github.com/user-attachments/assets/1831dcd2-ac1d-4f3b-bb01-c7abdf4a326f)
+![image](https://github.com/user-attachments/assets/c718a6a6-8583-4ad3-951e-211c1954ed54)
+
 ![image](https://github.com/user-attachments/assets/476b1ed7-034b-49d8-8d08-9cbfb56956cf)
 ![image](https://github.com/user-attachments/assets/e6a71c62-318e-4115-9b6c-a4096b52a3d9)
 Install PHP Manager
