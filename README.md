@@ -95,6 +95,12 @@ Click "Yes", you will now be remotely logged into the VM you just created.
 -Go back to os Ticket installation files find the MySQL file, double click on it. Click next, click agree, click next, select typical, click install, click finish. 
 ![image](https://github.com/user-attachments/assets/c96873cc-4070-4347-90a4-4f3e20e106a1)
 ![image](https://github.com/user-attachments/assets/9a4d3d1d-d64d-454a-9315-f023bcc80193)
+Click next, select standard configuration, click next, enter password, then click next, then execute, and click finish.
+![image](https://github.com/user-attachments/assets/613d6ca7-be84-46a4-ae9c-3d0b08bf6e3c)
+![image](https://github.com/user-attachments/assets/258878c1-bbf6-4f86-b4f0-9d1a4b3ebc8f)
+![image](https://github.com/user-attachments/assets/61ef76a9-f3c8-4642-908a-0dbfef8c44f8)
+
+
 
 
 MySQL
