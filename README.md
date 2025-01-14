@@ -43,11 +43,14 @@ Open Remote Desktop and paste your VM's IP Address in the box that says "Compute
 Click "Yes", you will now be remotely logged into the VM you just created.
 ![image](https://github.com/user-attachments/assets/338ad9f6-b47a-43fd-9991-9a761fb1db73)
 ![image](https://github.com/user-attachments/assets/1ed26a1b-4846-4a11-ac90-f0023b3e7cd9)
+
 <h2>osTicket Installation File Download</h2>
 
-- Download and Unzip os Ticket Installation files (Can be found online)
+- Download and Unzip os Ticket Installation files (Can be found online).
   ![image](https://github.com/user-attachments/assets/3027f0fb-902c-4a45-999e-54fe51a215ce)
+  Once downloaded, move the downloaded file to your desktop.
   ![image](https://github.com/user-attachments/assets/9ebad70b-3ac7-434a-9969-c6b3840e04f9)
+  Right click on the file on desktop and click "extract all". This will create another file on your desktop, and extracted files will pop up.
 ![image](https://github.com/user-attachments/assets/9560521c-a3fd-4529-b786-070412e1ed1a)
 ![image](https://github.com/user-attachments/assets/865b51e4-67fe-4ed3-9078-da32c1df2970)
 
