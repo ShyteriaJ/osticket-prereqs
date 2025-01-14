@@ -53,7 +53,7 @@ Click "Yes", you will now be remotely logged into the VM you just created.
 
 <h2>IIS Install/Enable </h2>
 
--IIS Install and Enable
+-Go to "Start"> Control Panel> Programs> Turn Windows Features ON/OFF". A box will pop up, scroll down and select "Internet Information Services" and expand the (+) sign next to it. Click the box next to Web Management Tools, and "World Wide Web Services". Expand the (+) next to World Wide Web Services, expand (+) next to "Application Development Features", select box next to CGI. Make sure boxes next to Common HTTP Features, Health and Diagnostics, and Performance Features, and Security are all checked as shown in the image below before clicking "OK".
 ![image](https://github.com/user-attachments/assets/b12f17a4-1a49-4ad7-ab43-0cc3fb65dcaf)
 ![image](https://github.com/user-attachments/assets/1831dcd2-ac1d-4f3b-bb01-c7abdf4a326f)
 ![image](https://github.com/user-attachments/assets/476b1ed7-034b-49d8-8d08-9cbfb56956cf)
