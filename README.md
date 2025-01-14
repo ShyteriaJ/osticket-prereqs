@@ -5,11 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -32,7 +27,7 @@ Click "Home" and then "Virtual Machine", click create, then select "Azure Virtua
 ![image](https://github.com/user-attachments/assets/6d3d0f2d-1e0d-44c0-b9c9-58ee6d4cf046)
 Select the Resource Group you created, name your Virtual Machine, select an available zone, select an image (operating system or server).
 ![image](https://github.com/user-attachments/assets/6dbb5228-7baf-4e02-b8e6-be79c9ba780c)
-Select a Vcpu (recommend 2 more for faster speeds), create username and password, click check box at bottom left, click next until you get to the "review and create" tab, click "review and create".
+Select a Vcpu (recommend 2 more for faster speeds), create username and password, click the check box at the bottom left, click next until you get to the "review and create" tab, click "review and create".
 ![image](https://github.com/user-attachments/assets/1ba1bef7-3f58-4dfd-be6e-60e44bf72927)
 If validation passes, click "create".
 ![image](https://github.com/user-attachments/assets/6c7662b3-3362-4992-aac0-33730177a9e4)
@@ -40,7 +35,7 @@ Wait for successful deployment of your Virtual Machine, then click "Home > Virtu
 ![image](https://github.com/user-attachments/assets/da969b47-d94f-49c2-a095-1ab0370cdd87)
 Your VM should be listed under the VM tab. Scroll right to find the IP address for your VM, and copy it.
 ![image](https://github.com/user-attachments/assets/d2ce6de9-9786-4764-9a46-186367a1d6b7)
-Open Remote Desktop and paste your VM's IP Address in the box that says "Computer" and enter the username and password you create when you create your VM, click "OK", then click "Connect".
+Open Remote Desktop and paste your VM's IP Address in the box that says "Computer" and enter the username you created for your VM the click "Connect", enter your password the click "OK".
 ![image](https://github.com/user-attachments/assets/d3f1937f-6f52-444f-8db8-28234c70cb42)
 ![image](https://github.com/user-attachments/assets/5ef55f91-f143-4105-a596-84f4948f9456)
 Click "Yes", you will now be remotely logged into the VM you just created.
