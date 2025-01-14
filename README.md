@@ -34,7 +34,8 @@ If validation passes, click "create".
 Wait for successful deployment of your Virtual Machine, then click "Home > Virtual Machine".
 ![image](https://github.com/user-attachments/assets/da969b47-d94f-49c2-a095-1ab0370cdd87)
 <h2>Connect VM to RDP</h2>
-Your VM should be listed under the VM tab. Scroll right to find the IP address for your VM, and copy it.
+
+-Your VM should be listed under the VM tab. Scroll right to find the IP address for your VM, and copy it.
 ![image](https://github.com/user-attachments/assets/d2ce6de9-9786-4764-9a46-186367a1d6b7)
 Open Remote Desktop and paste your VM's IP Address in the box that says "Computer" and enter the username you created for your VM the click "Connect", enter your password the click "OK".
 ![image](https://github.com/user-attachments/assets/d3f1937f-6f52-444f-8db8-28234c70cb42)
@@ -43,12 +44,15 @@ Click "Yes", you will now be remotely logged into the VM you just created.
 ![image](https://github.com/user-attachments/assets/338ad9f6-b47a-43fd-9991-9a761fb1db73)
 ![image](https://github.com/user-attachments/assets/1ed26a1b-4846-4a11-ac90-f0023b3e7cd9)
 <h2>osTicket Installation File Download</h2>
+
 - Download and Unzip os Ticket Installation files (Can be found online)
   ![image](https://github.com/user-attachments/assets/3027f0fb-902c-4a45-999e-54fe51a215ce)
   ![image](https://github.com/user-attachments/assets/9ebad70b-3ac7-434a-9969-c6b3840e04f9)
 ![image](https://github.com/user-attachments/assets/9560521c-a3fd-4529-b786-070412e1ed1a)
 ![image](https://github.com/user-attachments/assets/865b51e4-67fe-4ed3-9078-da32c1df2970)
+
 <h2>IIS Install/Enable </h2>
+
 -IIS Install and Enable
 ![image](https://github.com/user-attachments/assets/b12f17a4-1a49-4ad7-ab43-0cc3fb65dcaf)
 ![image](https://github.com/user-attachments/assets/1831dcd2-ac1d-4f3b-bb01-c7abdf4a326f)
