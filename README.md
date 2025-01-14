@@ -85,9 +85,19 @@ Click "Yes", you will now be remotely logged into the VM you just created.
 ![image](https://github.com/user-attachments/assets/f2b8ac1e-6fb9-4507-895e-46fd38a5fe47)
 ![image](https://github.com/user-attachments/assets/daf425c4-5b9e-48b3-bf68-30de7b91e9ab)
 
+<h2>Install VC_redist</h2>
 
-- VC_redist
-- MySQL
+-Go back to os Ticket installation files find the VC_redist file, double click on it. Click agree, install, and then close.
+![image](https://github.com/user-attachments/assets/41b41175-175e-4e94-b32a-aa328541f8ab)
+
+<h2>Install MySQL</h2>
+
+-Go back to os Ticket installation files find the MySQL file, double click on it. Click next, click agree, click next, select typical, click install, click finish. 
+![image](https://github.com/user-attachments/assets/c96873cc-4070-4347-90a4-4f3e20e106a1)
+![image](https://github.com/user-attachments/assets/9a4d3d1d-d64d-454a-9315-f023bcc80193)
+
+
+MySQL
 - HeidiSQL
 - osTicket
 
