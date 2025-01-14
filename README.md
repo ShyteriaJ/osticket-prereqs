@@ -32,9 +32,11 @@ Click "Home" and then "Virtual Machine", click create, then select "Azure Virtua
 ![image](https://github.com/user-attachments/assets/6d3d0f2d-1e0d-44c0-b9c9-58ee6d4cf046)
 Select the Resource Group you created, name your Virtual Machine, select an available zone, select image.
 ![image](https://github.com/user-attachments/assets/6dbb5228-7baf-4e02-b8e6-be79c9ba780c)
-Select a Vcpu (recommend 2 more for faster speeds), create username and password, click check box at bottom left, then "review and create"
+Select a Vcpu (recommend 2 more for faster speeds), create username and password, click check box at bottom left, click next until you get to the "review and create" tab, click "review and create".
 ![image](https://github.com/user-attachments/assets/1ba1bef7-3f58-4dfd-be6e-60e44bf72927)
+If validation passes, click "create".
 ![image](https://github.com/user-attachments/assets/6c7662b3-3362-4992-aac0-33730177a9e4)
+Wait for successful deployment of your Virtual Machine.
 ![image](https://github.com/user-attachments/assets/da969b47-d94f-49c2-a095-1ab0370cdd87)
 Connect to Virtual Machine vis RDP (Remote Desktop)
 ![image](https://github.com/user-attachments/assets/d2ce6de9-9786-4764-9a46-186367a1d6b7)
