@@ -22,11 +22,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Resourse Group, Deploy Virtual Machine, & Connect via RDP
+- Create Resource Group, Deploy Virtual Machine, & Connect via RDP
+  ![image](https://github.com/user-attachments/assets/4658959f-388e-4c97-84f4-e1d323393b68)
+![image](https://github.com/user-attachments/assets/91b5979c-7b81-44f0-bcef-d8bd11d5b2c4)
+![image](https://github.com/user-attachments/assets/4d91db54-d29b-472d-ab3a-885a66ce24a4)
+![image](https://github.com/user-attachments/assets/6d3d0f2d-1e0d-44c0-b9c9-58ee6d4cf046)
+![image](https://github.com/user-attachments/assets/81b7a85d-c661-4da8-8463-ed0e8bce6a9e)
+
 - IIS & Management Console
-- Create PHP Folder on C:\ drive
-- PHP Manager
 - Rewrite Module
+- Create PHP Folder on C:\ drive
+- PHP Unzip in PHP Folder, PHP Manager
+- VC_redist
 - MySQL
 - HeidiSQL
 - osTicket
