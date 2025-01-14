@@ -22,11 +22,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create Resourse Group, Deploy Virtual Machine, & Connect via RDP
+- IIS & Management Console
+- Create PHP Folder on C:\ drive
+- PHP Manager
+- Rewrite Module
+- MySQL
+- HeidiSQL
+- osTicket
 
 <h2>Installation Steps</h2>
 
