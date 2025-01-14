@@ -30,8 +30,9 @@ If validation passes, click create at the bottom of screen.
 ![image](https://github.com/user-attachments/assets/4d91db54-d29b-472d-ab3a-885a66ce24a4)
 Click "Home" and then "Virtual Machine", click create, then select "Azure Virtual Machine".
 ![image](https://github.com/user-attachments/assets/6d3d0f2d-1e0d-44c0-b9c9-58ee6d4cf046)
-Select the Resource Group you created, name your Virtual Machine, select an available zone, choose a vcpu(2 or more)
+Select the Resource Group you created, name your Virtual Machine, select an available zone, select image.
 ![image](https://github.com/user-attachments/assets/6dbb5228-7baf-4e02-b8e6-be79c9ba780c)
+Select a Vcpu (recommend 2 more for faster speeds)
 ![image](https://github.com/user-attachments/assets/1ba1bef7-3f58-4dfd-be6e-60e44bf72927)
 ![image](https://github.com/user-attachments/assets/6c7662b3-3362-4992-aac0-33730177a9e4)
 ![image](https://github.com/user-attachments/assets/da969b47-d94f-49c2-a095-1ab0370cdd87)
