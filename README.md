@@ -15,7 +15,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Prerequisites</h2>
 
 - Log in to your Azure account, it will take you to the homepage.
   ![image](https://github.com/user-attachments/assets/4658959f-388e-4c97-84f4-e1d323393b68)
@@ -33,6 +33,7 @@ If validation passes, click "create".
 ![image](https://github.com/user-attachments/assets/6c7662b3-3362-4992-aac0-33730177a9e4)
 Wait for successful deployment of your Virtual Machine, then click "Home > Virtual Machine".
 ![image](https://github.com/user-attachments/assets/da969b47-d94f-49c2-a095-1ab0370cdd87)
+<h2>Connect VM to RDP</h2>
 Your VM should be listed under the VM tab. Scroll right to find the IP address for your VM, and copy it.
 ![image](https://github.com/user-attachments/assets/d2ce6de9-9786-4764-9a46-186367a1d6b7)
 Open Remote Desktop and paste your VM's IP Address in the box that says "Computer" and enter the username you created for your VM the click "Connect", enter your password the click "OK".
@@ -41,17 +42,19 @@ Open Remote Desktop and paste your VM's IP Address in the box that says "Compute
 Click "Yes", you will now be remotely logged into the VM you just created.
 ![image](https://github.com/user-attachments/assets/338ad9f6-b47a-43fd-9991-9a761fb1db73)
 ![image](https://github.com/user-attachments/assets/1ed26a1b-4846-4a11-ac90-f0023b3e7cd9)
-
+<h2>osTicket Installation File Download</h2>
 - Download and Unzip os Ticket Installation files (Can be found online)
   ![image](https://github.com/user-attachments/assets/3027f0fb-902c-4a45-999e-54fe51a215ce)
   ![image](https://github.com/user-attachments/assets/9ebad70b-3ac7-434a-9969-c6b3840e04f9)
 ![image](https://github.com/user-attachments/assets/9560521c-a3fd-4529-b786-070412e1ed1a)
 ![image](https://github.com/user-attachments/assets/865b51e4-67fe-4ed3-9078-da32c1df2970)
+<h2>IIS Install/Enable </h2>
 -IIS Install and Enable
 ![image](https://github.com/user-attachments/assets/b12f17a4-1a49-4ad7-ab43-0cc3fb65dcaf)
 ![image](https://github.com/user-attachments/assets/1831dcd2-ac1d-4f3b-bb01-c7abdf4a326f)
 ![image](https://github.com/user-attachments/assets/476b1ed7-034b-49d8-8d08-9cbfb56956cf)
 ![image](https://github.com/user-attachments/assets/e6a71c62-318e-4115-9b6c-a4096b52a3d9)
+Install PHP Manager
 ![image](https://github.com/user-attachments/assets/422d71d3-cd61-4122-8065-afe364ff0315)
 
 - Rewrite Module
