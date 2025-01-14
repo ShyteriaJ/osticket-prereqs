@@ -40,8 +40,9 @@ Wait for successful deployment of your Virtual Machine, then click "Home > Virtu
 ![image](https://github.com/user-attachments/assets/da969b47-d94f-49c2-a095-1ab0370cdd87)
 Your VM should be listed under the VM tab. Scroll right to find the IP address for your VM, and copy it.
 ![image](https://github.com/user-attachments/assets/d2ce6de9-9786-4764-9a46-186367a1d6b7)
-Open Remote Desktop and paste your VM's IP Address in the box that says "Computer" and enter the username and password you create when you create your VM. Select Connect.
+Open Remote Desktop and paste your VM's IP Address in the box that says "Computer" and enter the username and password you create when you create your VM, and click "Connect".
 ![image](https://github.com/user-attachments/assets/d3f1937f-6f52-444f-8db8-28234c70cb42)
+Click "Yes".
 ![image](https://github.com/user-attachments/assets/5ef55f91-f143-4105-a596-84f4948f9456)
 ![image](https://github.com/user-attachments/assets/338ad9f6-b47a-43fd-9991-9a761fb1db73)
 ![image](https://github.com/user-attachments/assets/1ed26a1b-4846-4a11-ac90-f0023b3e7cd9)
