@@ -50,7 +50,7 @@ Click "Yes", you will now be remotely logged into the VM you just created.
   ![image](https://github.com/user-attachments/assets/3027f0fb-902c-4a45-999e-54fe51a215ce)
   Once downloaded, move the downloaded file to your desktop.
   ![image](https://github.com/user-attachments/assets/9ebad70b-3ac7-434a-9969-c6b3840e04f9)
-  Right click on the file on desktop and click "extract all". This will create another file on your desktop, and extracted files will pop up.
+  Right click on the file on desktop and click "extract all", click extract. This will create an unzipped version of the file on your desktop that you will use for the installation.
 ![image](https://github.com/user-attachments/assets/9560521c-a3fd-4529-b786-070412e1ed1a)
 ![image](https://github.com/user-attachments/assets/865b51e4-67fe-4ed3-9078-da32c1df2970)
 
