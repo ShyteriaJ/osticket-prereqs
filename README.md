@@ -71,16 +71,16 @@ Click "Yes", you will now be remotely logged into the VM you just created.
 
 <h2>Create PHP Folder on Windows and Unzip PHP file (C:) Drive </h2>
 
-- Right click the folder icon, and open file explorer. CLick "This PC"> Windows (C:) drive, click the folder icon at the top left of the page and create a new folder called "PHP". Go back to os Ticket installation files find php zip file, right click on it and selcet extract all. Click browse, go to windows (C:) drive and select the PHP file you created, then click "select folder", then "extract.
+- Right click the folder icon, and open file explorer. CLick "This PC"> Windows (C:) drive, click the folder icon at the top left of the page and create a new folder called "PHP". 
   ![image](https://github.com/user-attachments/assets/0dceb0a9-11df-4014-9a43-26952f4a99b1)
 ![image](https://github.com/user-attachments/assets/3901d5eb-53a5-44e7-8350-3f97e3c9a4c5)
 ![image](https://github.com/user-attachments/assets/917e41da-1aa5-4a82-8028-5756eaa5ec28)
+-Go back to os Ticket installation files find php zip file, right click on it and selcet extract all. Click browse, go to windows (C:) drive and select the PHP file you created, then click "select folder", then "extract. The files will now be extracted inside of the PHP folder.
 ![image](https://github.com/user-attachments/assets/55b7171c-e208-426e-81ac-cb6ca81b04b7)
 ![image](https://github.com/user-attachments/assets/f2b8ac1e-6fb9-4507-895e-46fd38a5fe47)
 ![image](https://github.com/user-attachments/assets/daf425c4-5b9e-48b3-bf68-30de7b91e9ab)
 
 
-- PHP Unzip in PHP Folder, PHP Manager
 - VC_redist
 - MySQL
 - HeidiSQL
