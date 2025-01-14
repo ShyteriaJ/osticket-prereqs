@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/user-attachments/assets/91b5979c-7b81-44f0-bcef-d8bd11d5b2c4)
 ![image](https://github.com/user-attachments/assets/4d91db54-d29b-472d-ab3a-885a66ce24a4)
 ![image](https://github.com/user-attachments/assets/6d3d0f2d-1e0d-44c0-b9c9-58ee6d4cf046)
-![image](https://github.com/user-attachments/assets/81b7a85d-c661-4da8-8463-ed0e8bce6a9e)
+![image](https://github.com/user-attachments/assets/81b7a85d-c661-4da8-8463-ed0e8bce6a9e) height="40%" width="40%"
 
 - IIS & Management Console
 - Rewrite Module
