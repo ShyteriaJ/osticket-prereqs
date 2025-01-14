@@ -60,11 +60,14 @@ Click "Yes", you will now be remotely logged into the VM you just created.
 ![image](https://github.com/user-attachments/assets/e6a71c62-318e-4115-9b6c-a4096b52a3d9)
 
 <h2>Install PHP Manager </h2>
---Open osTicket installation files, click PHP Manager, click agree and install.
+
+-Open osTicket installation files, double click on PHP Manager file, click agree, install, then close/finish.
 ![image](https://github.com/user-attachments/assets/422d71d3-cd61-4122-8065-afe364ff0315)
 
-- Rewrite Module
-  ![image](https://github.com/user-attachments/assets/cfbfaa14-328d-46ad-afd4-36c8e527813b)
+<h2>Install Rewrite Module </h2>
+
+- Open osTicket installation files, double click on rewrite_amd file , click accept, install, then finish.
+![image](https://github.com/user-attachments/assets/b65dcab1-375d-47ab-a28c-c1c8baace888)
 
 - Create "PHP" Folder on C:\ drive
 - 
