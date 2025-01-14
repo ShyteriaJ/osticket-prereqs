@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create Resource Group, Deploy Virtual Machine
-- Log in to your Azure account, click on the 2 line in the top left corner and click on "Home".
+- Log in to your Azure account, it will take you to the homepage.
   ![image](https://github.com/user-attachments/assets/4658959f-388e-4c97-84f4-e1d323393b68)
-  Click on Resource Group
+  Click on Resource Group, click create, name your Resource Group, select a region or use the default, and click on "review and create" at the bottom of the screen.
 ![image](https://github.com/user-attachments/assets/91b5979c-7b81-44f0-bcef-d8bd11d5b2c4)
+If validation passes, click create at the bottom of screen.
 ![image](https://github.com/user-attachments/assets/4d91db54-d29b-472d-ab3a-885a66ce24a4)
 ![image](https://github.com/user-attachments/assets/6d3d0f2d-1e0d-44c0-b9c9-58ee6d4cf046)
 ![image](https://github.com/user-attachments/assets/6dbb5228-7baf-4e02-b8e6-be79c9ba780c)
