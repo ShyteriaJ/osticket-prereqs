@@ -100,10 +100,17 @@ Click next, select standard configuration, click next, enter password, then clic
 ![image](https://github.com/user-attachments/assets/258878c1-bbf6-4f86-b4f0-9d1a4b3ebc8f)
 ![image](https://github.com/user-attachments/assets/61ef76a9-f3c8-4642-908a-0dbfef8c44f8)
 
+<h2>Register PHP</h2>
+
+-Open IIS as an admin.
+![image](https://github.com/user-attachments/assets/3c8ae687-49ad-40b1-8eae-11eb9a9b094f)
+![image](https://github.com/user-attachments/assets/c1989fd6-7357-4121-b327-9c09e6a0dade)
+-Click on PHP manager, select "Register New PHP Version", click on the 3 dots to browse folders, select PHP, scroll down to select PHP-CGI, click open.
+![image](https://github.com/user-attachments/assets/ace8ee32-93d5-4435-8622-675c2cff32cb)
+-Reload IIS (Open IIS, Stop and Start the server)
+![image](https://github.com/user-attachments/assets/f28a239e-da80-453a-8457-50152548881b)
 
 
-
-MySQL
 - HeidiSQL
 - osTicket
 
