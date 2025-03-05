@@ -129,6 +129,11 @@ Click next, select standard configuration, click next, enter password, then clic
 
 
 <h2>Reload IIS </h2>
+
+-Open IIS, Stop and Start the server. Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+![image](https://github.com/user-attachments/assets/1dbf1116-2938-4385-8ecd-8e72d9c19a38)
+
 - HeidiSQL
 - osTicket
 
