@@ -180,12 +180,21 @@ Select add -> Select a principal -> Type Everyone in the box below -> select che
 <h2>Install HeidiSQL</h2>
 
 
--Open File Explorer -> Desktop -> osTicket Installation-Files -> Double click on HeidiSQL_12.3.0.6589_ Setup -> I accept the agreement -> Next -> Next ->
+-Open File Explorer -> Desktop -> osTicket Installation-Files -> Double click on HeidiSQL_12.3.0.6589_ Setup -> I accept the agreement -> Next -> Next -> Next -> Install -> Finish -> Skip ->
 ![image](https://github.com/user-attachments/assets/713b9093-b7fb-40f1-801d-f201318d56c0)
   ![image](https://github.com/user-attachments/assets/d426f9e6-d3fe-40ef-9d84-cf2559fd380c)
 ![image](https://github.com/user-attachments/assets/5a3b17ce-f154-4ce1-9264-9d18ae45525f)
 ![image](https://github.com/user-attachments/assets/25a4c34a-465e-4b7e-828c-ae78ccc62c88)
 ![image](https://github.com/user-attachments/assets/61a252e3-12a2-4cff-9879-bd3cfe645f4b)
+![image](https://github.com/user-attachments/assets/852f56a4-bbf5-4907-85e2-0dcd59da7d9a)
+![image](https://github.com/user-attachments/assets/5bd32a5d-56c9-485a-81c5-96880803fe86)
+![image](https://github.com/user-attachments/assets/0a8a507e-b989-4577-9e8c-3bce9d030351)
+![image](https://github.com/user-attachments/assets/f4f21bfa-4bec-4134-af12-f3baa9e7a727)
+
+
+
+
+
 
 - osTicket
 
