@@ -128,8 +128,7 @@ Click next, select standard configuration, click next, enter password, then clic
 ![image](https://github.com/user-attachments/assets/58c7a13d-09b0-4f18-8337-989b7dc6c11d)
 
 
-
-<h2>Install osTicket v1.15.8</h2>
+<h2>Reload IIS </h2>
 - HeidiSQL
 - osTicket
 
