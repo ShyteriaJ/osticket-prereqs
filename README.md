@@ -124,7 +124,6 @@ Click next, select standard configuration, click next, enter password, then clic
 ![image](https://github.com/user-attachments/assets/ce256ee1-419c-4bbe-a956-a1f7847bad75)
 
 -Within the “c:\inetpub\wwwroot”, Rename “upload” to “osTicket”
-
 ![image](https://github.com/user-attachments/assets/5a54ee87-b5b9-4ec0-9ac3-b6bb68bdbd07)
 ![image](https://github.com/user-attachments/assets/58c7a13d-09b0-4f18-8337-989b7dc6c11d)
 
