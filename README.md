@@ -169,13 +169,24 @@ Select add -> Select a principal -> Type Everyone in the box below -> select che
 
 
 <h2>Continue Setting up osTicket in the browser</h2>
--Click continue -> name the helpdesk -> enter the default email (receives email from customers)
+
+
+-Click continue -> name the helpdesk -> enter the default email (receives email from customers) -> enter Admin user. 
 
 ![image](https://github.com/user-attachments/assets/4aebc17f-4702-4aa9-bf5e-52339a09d27e)
 ![image](https://github.com/user-attachments/assets/df68fa6c-692f-4986-9a98-59ccdcb47f0d)
 
 
-- HeidiSQL
+<h2>Install HeidiSQL</h2>
+
+
+-Open File Explorer -> Desktop -> osTicket Installation-Files -> Double click on HeidiSQL_12.3.0.6589_ Setup -> I accept the agreement -> Next -> Next ->
+![image](https://github.com/user-attachments/assets/713b9093-b7fb-40f1-801d-f201318d56c0)
+  ![image](https://github.com/user-attachments/assets/d426f9e6-d3fe-40ef-9d84-cf2559fd380c)
+![image](https://github.com/user-attachments/assets/5a3b17ce-f154-4ce1-9264-9d18ae45525f)
+![image](https://github.com/user-attachments/assets/25a4c34a-465e-4b7e-828c-ae78ccc62c88)
+![image](https://github.com/user-attachments/assets/61a252e3-12a2-4cff-9879-bd3cfe645f4b)
+
 - osTicket
 
 <h2>Installation Steps</h2>
