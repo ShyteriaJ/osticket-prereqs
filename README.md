@@ -131,10 +131,22 @@ Click next, select standard configuration, click next, enter password, then clic
 <h2>Reload IIS </h2>
 
 
--Open IIS, Stop and Start the server. Go to sites -> Default -> osTicket
+-Open IIS, Stop and Start the server. 
+Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”.
 ![image](https://github.com/user-attachments/assets/37176cb7-e8be-48a1-a433-8086ba401aeb)
 ![image](https://github.com/user-attachments/assets/667bb79c-a1f1-49a5-beca-32d6a02159b8)
+![image](https://github.com/user-attachments/assets/dfc25d30-5067-42d9-a4e4-c82649198d11)
+
+-Note that some extensions are not enabled
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browser, observe the changes
+
 
 
 - HeidiSQL
