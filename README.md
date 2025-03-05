@@ -171,7 +171,7 @@ Select add -> Select a principal -> Type Everyone in the box below -> select che
 <h2>Continue Setting up osTicket in the browser</h2>
 
 
--Click continue -> name the helpdesk -> enter the default email (receives email from customers) -> enter Admin user. 
+-Click continue -> name the helpdesk -> enter the default email (receives email from customers) -> enter Admin user. Do NOT click "Install now", minimize this screen(you will return to finish the Database settings later.
 
 ![image](https://github.com/user-attachments/assets/4aebc17f-4702-4aa9-bf5e-52339a09d27e)
 ![image](https://github.com/user-attachments/assets/df68fa6c-692f-4986-9a98-59ccdcb47f0d)
@@ -180,7 +180,7 @@ Select add -> Select a principal -> Type Everyone in the box below -> select che
 <h2>Install HeidiSQL</h2>
 
 
--Open File Explorer -> Desktop -> osTicket Installation-Files -> Double click on HeidiSQL_12.3.0.6589_ Setup -> I accept the agreement -> Next -> Next -> Next -> Install -> Finish -> Skip -> select New-> enter user and password and click open ->
+-Open File Explorer -> Desktop -> osTicket Installation-Files -> Double click on HeidiSQL_12.3.0.6589_ Setup -> I accept the agreement -> Next -> Next -> Next -> Install -> Finish -> Skip -> select New-> enter root for user and password and click open to connect to the session.
 ![image](https://github.com/user-attachments/assets/713b9093-b7fb-40f1-801d-f201318d56c0)
   ![image](https://github.com/user-attachments/assets/d426f9e6-d3fe-40ef-9d84-cf2559fd380c)
 ![image](https://github.com/user-attachments/assets/5a3b17ce-f154-4ce1-9264-9d18ae45525f)
@@ -198,12 +198,15 @@ Select add -> Select a principal -> Type Everyone in the box below -> select che
 
 
 
+<h2>Continue osTicket setup</h2>
 
 
+-Return to osTicket installer in the browser. Enter the database name 
+as osTicket and root for the user and password like you did in MySQL & HeidiSQL. Click install now. If done correctly you will see the congratulations page.
+![image](https://github.com/user-attachments/assets/bbd2492c-c8b3-46cf-9d49-146c4d0fd2ad)
+![image](https://github.com/user-attachments/assets/0ca4c295-266c-44ea-b05e-ba06318a8957)
+![image](https://github.com/user-attachments/assets/9b6bb275-88f6-413a-bd40-1e90ede4379b)
 
-- osTicket
-
-<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
