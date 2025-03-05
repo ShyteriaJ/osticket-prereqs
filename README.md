@@ -142,10 +142,15 @@ On the right, click “Browse *:80”.
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
 Click “Enable or disable an extension”
-Enable: php_imap.dll
+Enable: php_imap.dll (example below)
 Enable: php_intl.dll
 Enable: php_opcache.dll
 Refresh the osTicket site in your browser, observe the changes
+![image](https://github.com/user-attachments/assets/5e2a8c77-e635-44e8-a185-6e71bd626ada)
+![image](https://github.com/user-attachments/assets/c8d35c4a-ccc9-49a6-9028-29a225eca95e)
+![image](https://github.com/user-attachments/assets/6ce24e24-12a7-4528-8974-393352fbef82)
+![image](https://github.com/user-attachments/assets/73d585f9-4e33-4e3d-99a5-71b99bc81e01)
+
 
 
 
