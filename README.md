@@ -151,6 +151,9 @@ Refresh the osTicket site in your browser, observe the changes
 ![image](https://github.com/user-attachments/assets/6ce24e24-12a7-4528-8974-393352fbef82)
 ![image](https://github.com/user-attachments/assets/73d585f9-4e33-4e3d-99a5-71b99bc81e01)
 
+-Rename:ost-sampleconfig.php to ost-config.php
+ Go to File Explorer-> This PC -> Windows C:-> inetpub ->wwwroot -> osTicket -> include ->ost-sampleconfig.php. Right-click on "ost-sampleconfig.php" and click remame.
+![image](https://github.com/user-attachments/assets/e99d44ef-a62e-4b20-8b43-0cca725bb3e2)
 
 
 
