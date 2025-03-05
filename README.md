@@ -153,13 +153,17 @@ Click next, select standard configuration, click next, enter password, then clic
 
 -Rename: ost-sampleconfig.php to ost-config.php. Go to File Explorer-> This PC -> Windows C:-> inetpub ->wwwroot -> osTicket -> include ->ost-sampleconfig.php. Right-click on "ost-sampleconfig.php" and click rename.
 ![image](https://github.com/user-attachments/assets/e99d44ef-a62e-4b20-8b43-0cca725bb3e2)
--Assign Permissions: Find the ost-config.php folder and right click ->select Properties-> Security -> Advanced -> Disable inheritance -> Remove All New Permissions -> Everyone -> All
+-Assign Permissions: Find the ost-config.php folder and right click ->select Properties-> Security -> Advanced -> Disable inheritance -> Remove all Permissions from this objects 
 
 ![image](https://github.com/user-attachments/assets/da126ed4-9357-49a9-b4f5-647e05de359d)
 ![image](https://github.com/user-attachments/assets/37b86d9e-f1a4-412e-9537-794874c4f3c5)
 ![image](https://github.com/user-attachments/assets/506a3ab5-34f9-468b-a534-e6f3be4dc698)
+![image](https://github.com/user-attachments/assets/35f6118f-1465-48c2-a0d2-b152970e09a0)
+-Add new permission
+Select add -> Select a principal -> Type Everyone in the box below -> select check names and "Everyone" will become underlined -> select Ok -> select Full control -> OK
+![image](https://github.com/user-attachments/assets/ccab97a0-4f69-44d7-9f47-75d6f97af5b4)
 
-
+![image](https://github.com/user-attachments/assets/008a80ee-834a-40d6-8f2f-2cb8ee22fa96)
 
 - HeidiSQL
 - osTicket
