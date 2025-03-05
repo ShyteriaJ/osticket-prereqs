@@ -160,10 +160,11 @@ Click next, select standard configuration, click next, enter password, then clic
 ![image](https://github.com/user-attachments/assets/506a3ab5-34f9-468b-a534-e6f3be4dc698)
 ![image](https://github.com/user-attachments/assets/35f6118f-1465-48c2-a0d2-b152970e09a0)
 -Add new permission
-Select add -> Select a principal -> Type Everyone in the box below -> select check names and "Everyone" will become underlined -> select Ok -> select Full control -> select OK.
+Select add -> Select a principal -> Type Everyone in the box below -> select check names and "Everyone" will become underlined -> select Ok -> select Full control -> select OK -> select apply -> Ok.
 ![image](https://github.com/user-attachments/assets/18c65e13-492b-460a-8f39-0a29e0f88102)
 ![image](https://github.com/user-attachments/assets/ccab97a0-4f69-44d7-9f47-75d6f97af5b4)
-![image](https://github.com/user-attachments/assets/008a80ee-834a-40d6-8f2f-2cb8ee22fa96)
+![image](https://github.com/user-attachments/assets/91545661-ef28-45c9-8348-c1b2185e53c8)
+
 
 - HeidiSQL
 - osTicket
