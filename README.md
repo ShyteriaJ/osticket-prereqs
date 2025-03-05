@@ -206,30 +206,8 @@ as osTicket and root for the user and password like you did in MySQL & HeidiSQL.
 ![image](https://github.com/user-attachments/assets/bbd2492c-c8b3-46cf-9d49-146c4d0fd2ad)
 ![image](https://github.com/user-attachments/assets/0ca4c295-266c-44ea-b05e-ba06318a8957)
 ![image](https://github.com/user-attachments/assets/9b6bb275-88f6-413a-bd40-1e90ede4379b)
--Go back to HeidiSQL and right click on the osTicket database -> select refresh from the drop-down. Click on osTicket again and you will see tables are now created within the osTicket database.
+-Go back to HeidiSQL and right click on the osTicket database -> select refresh from the drop-down. Click on osTicket again and you will see tables are now created within the osTicket database. You can now close Heidi and return to the congratulations page.
 ![image](https://github.com/user-attachments/assets/89008b80-9618-47d1-8dbb-02354ab3e641)
 ![image](https://github.com/user-attachments/assets/c8bd677b-62a4-43a6-ab95-506d491dabe4)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Congratulations you have successfully
