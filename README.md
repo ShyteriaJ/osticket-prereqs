@@ -164,6 +164,7 @@ Select add -> Select a principal -> Type Everyone in the box below -> select che
 ![image](https://github.com/user-attachments/assets/18c65e13-492b-460a-8f39-0a29e0f88102)
 ![image](https://github.com/user-attachments/assets/ccab97a0-4f69-44d7-9f47-75d6f97af5b4)
 ![image](https://github.com/user-attachments/assets/91545661-ef28-45c9-8348-c1b2185e53c8)
+![image](https://github.com/user-attachments/assets/23785105-0804-4b92-9906-9b6171d6a932)
 
 
 - HeidiSQL
