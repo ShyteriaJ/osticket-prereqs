@@ -191,7 +191,10 @@ Select add -> Select a principal -> Type Everyone in the box below -> select che
 ![image](https://github.com/user-attachments/assets/0a8a507e-b989-4577-9e8c-3bce9d030351)
 ![image](https://github.com/user-attachments/assets/f4f21bfa-4bec-4134-af12-f3baa9e7a727)
 ![image](https://github.com/user-attachments/assets/70eb23c5-6dfb-4dae-8c69-442940006919)
+-Create the osTicket Database. Right-click on Unnamed -> Create New -> Database -> Enter osTicket and click OK -> You should now see osticket listed as a database in HeidiSQL.
 ![image](https://github.com/user-attachments/assets/5891e3c0-5ff1-42c3-8cce-09f8f34b2626)
+![image](https://github.com/user-attachments/assets/180c1c41-7e4b-415f-be06-e1c8f47a5b9a)
+![image](https://github.com/user-attachments/assets/6033aa6f-69ed-452d-bcb1-26d368fca619)
 
 
 
