@@ -116,13 +116,15 @@ Click next, select standard configuration, click next, enter password, then clic
 
 -Open the osTicket-Installation folder, and unzip or extract the "osTicket-v1.15.8" file.
 ![image](https://github.com/user-attachments/assets/15f951a5-fcf5-42ef-a114-d1734b6fe10a)
--Copy the “upload” folder into “c:\inetpub\wwwroot”
+-Copy the “upload” folder into “c:\inetpub\wwwroot” by opening File Explorer, select "This PC"> select "Windows C:"> select "Inetpub"> select "wwwroot". Now, go back to the osTicket-v1.15.8 folder and drag the "Upload" file into the "wwwroot" folder.
 ![image](https://github.com/user-attachments/assets/7375229e-5523-45f0-af70-c9eec1d402e9)
 ![image](https://github.com/user-attachments/assets/cd0bfa9d-40c0-4103-bbe3-5cebc12f9a73)
 ![image](https://github.com/user-attachments/assets/d41a512f-10d4-4aa7-812e-31121905fada)
 ![image](https://github.com/user-attachments/assets/42e89a19-cf44-4a63-aa25-a2e8274f1243)
 ![image](https://github.com/user-attachments/assets/ce256ee1-419c-4bbe-a956-a1f7847bad75)
-
+-Rename the "Upload" folder to "osTicket"
+![image](https://github.com/user-attachments/assets/5a54ee87-b5b9-4ec0-9ac3-b6bb68bdbd07)
+![image](https://github.com/user-attachments/assets/58c7a13d-09b0-4f18-8337-989b7dc6c11d)
 
 <h2>Install osTicket v1.15.8</h2>
 - HeidiSQL
