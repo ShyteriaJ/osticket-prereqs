@@ -210,4 +210,4 @@ as osTicket and root for the user and password like you did in MySQL & HeidiSQL.
 ![image](https://github.com/user-attachments/assets/89008b80-9618-47d1-8dbb-02354ab3e641)
 ![image](https://github.com/user-attachments/assets/c8bd677b-62a4-43a6-ab95-506d491dabe4)
 
-Congratulations you have successfully
+<h2>Congratulations, you have successfully installed osTicket and its prerequisites!</h2>
