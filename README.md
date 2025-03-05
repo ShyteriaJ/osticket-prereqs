@@ -168,6 +168,12 @@ Select add -> Select a principal -> Type Everyone in the box below -> select che
 ![image](https://github.com/user-attachments/assets/0609dc34-1766-4aed-80f6-984a9244021c)
 
 
+<h2>Continue Setting up osTicket in the browser</h2>
+-Click continue -> name the helpdesk -> enter the default email (receives email from customers)
+
+![image](https://github.com/user-attachments/assets/4aebc17f-4702-4aa9-bf5e-52339a09d27e)
+![image](https://github.com/user-attachments/assets/df68fa6c-692f-4986-9a98-59ccdcb47f0d)
+
 
 - HeidiSQL
 - osTicket
