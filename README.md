@@ -130,8 +130,10 @@ Click next, select standard configuration, click next, enter password, then clic
 
 <h2>Reload IIS </h2>
 
+
 -Open IIS, Stop and Start the server. Go to sites -> Default -> osTicket
-On the right, click “Browse *:80”
+On the right, click “Browse *:80”.
+
 ![image](https://github.com/user-attachments/assets/667bb79c-a1f1-49a5-beca-32d6a02159b8)
 
 
