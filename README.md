@@ -110,8 +110,15 @@ Click next, select standard configuration, click next, enter password, then clic
 ![image](https://github.com/user-attachments/assets/f28a239e-da80-453a-8457-50152548881b)
 -Reload IIS (Open IIS, Stop and Start the server) then minimize the IIS screen.
 ![image](https://github.com/user-attachments/assets/37176cb7-e8be-48a1-a433-8086ba401aeb)
--Open
+
+<h2>Install osTicket v1.15.8</h2>
+
+
+-Open the osTicket-Installation folder, and unzip or extract the "osTicket-v1.15.8" file.
 ![image](https://github.com/user-attachments/assets/15f951a5-fcf5-42ef-a114-d1734b6fe10a)
+-Copy the “upload” folder into “c:\inetpub\wwwroot”
+![image](https://github.com/user-attachments/assets/7375229e-5523-45f0-af70-c9eec1d402e9)
+![image](https://github.com/user-attachments/assets/be6fb881-b636-458c-9f4e-1be44dda7a8d)
 
 <h2>Install osTicket v1.15.8</h2>
 - HeidiSQL
