@@ -107,8 +107,11 @@ Click next, select standard configuration, click next, enter password, then clic
 ![image](https://github.com/user-attachments/assets/c1989fd6-7357-4121-b327-9c09e6a0dade)
 -Click on PHP manager, select "Register New PHP Version", click on the 3 dots to browse folders, select PHP, scroll down to select PHP-CGI, click open.
 ![image](https://github.com/user-attachments/assets/ace8ee32-93d5-4435-8622-675c2cff32cb)
--Reload IIS (Open IIS, Stop and Start the server)
 ![image](https://github.com/user-attachments/assets/f28a239e-da80-453a-8457-50152548881b)
+-Reload IIS (Open IIS, Stop and Start the server) then minimize the IIS screen.
+![image](https://github.com/user-attachments/assets/37176cb7-e8be-48a1-a433-8086ba401aeb)
+-Open
+![image](https://github.com/user-attachments/assets/15f951a5-fcf5-42ef-a114-d1734b6fe10a)
 
 
 - HeidiSQL
