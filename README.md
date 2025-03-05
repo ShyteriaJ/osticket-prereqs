@@ -191,6 +191,7 @@ Select add -> Select a principal -> Type Everyone in the box below -> select che
 ![image](https://github.com/user-attachments/assets/0a8a507e-b989-4577-9e8c-3bce9d030351)
 ![image](https://github.com/user-attachments/assets/f4f21bfa-4bec-4134-af12-f3baa9e7a727)
 ![image](https://github.com/user-attachments/assets/70eb23c5-6dfb-4dae-8c69-442940006919)
+![image](https://github.com/user-attachments/assets/5891e3c0-5ff1-42c3-8cce-09f8f34b2626)
 
 
 
