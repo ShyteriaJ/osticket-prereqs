@@ -118,7 +118,11 @@ Click next, select standard configuration, click next, enter password, then clic
 ![image](https://github.com/user-attachments/assets/15f951a5-fcf5-42ef-a114-d1734b6fe10a)
 -Copy the “upload” folder into “c:\inetpub\wwwroot”
 ![image](https://github.com/user-attachments/assets/7375229e-5523-45f0-af70-c9eec1d402e9)
-![image](https://github.com/user-attachments/assets/be6fb881-b636-458c-9f4e-1be44dda7a8d)
+![image](https://github.com/user-attachments/assets/cd0bfa9d-40c0-4103-bbe3-5cebc12f9a73)
+![image](https://github.com/user-attachments/assets/d41a512f-10d4-4aa7-812e-31121905fada)
+![image](https://github.com/user-attachments/assets/42e89a19-cf44-4a63-aa25-a2e8274f1243)
+![image](https://github.com/user-attachments/assets/ce256ee1-419c-4bbe-a956-a1f7847bad75)
+
 
 <h2>Install osTicket v1.15.8</h2>
 - HeidiSQL
